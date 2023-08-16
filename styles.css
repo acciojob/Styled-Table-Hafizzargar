@@ -1,8 +1,17 @@
 /* your code */
 #a1{
 	background-color:blue;
+	padding:0px;
+	
+	
 	
 }
 #a2 {
 	background-color:#958F8E;
+	padding:0px;
+}
+table{
+	border-collapse:collapse;
+	cellspacing:2px;
+	
 }
